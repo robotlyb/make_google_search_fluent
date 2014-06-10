@@ -1,3 +1,5 @@
 1.此hosts文件就是解决google被禁的问题，使google搜索秒上
 2.将hosts文件替换本地的hosts文件，本地hosts具体位置根据系统的不同而不同
 3.如果本地hosts文件有其他配置，可以将此hosts文件中的内容粘贴到原hosts文件中，去掉重复的内容
+
+文件地址：https://smarthosts.googlecode.com/svn/trunk/hosts
