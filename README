@@ -3,3 +3,4 @@
 3.如果本地hosts文件有其他配置，可以将此hosts文件中的内容粘贴到原hosts文件中，去掉重复的内容
 
 文件地址：https://smarthosts.googlecode.com/svn/trunk/hosts
+顺便说一下google IP:http://203.116.165.169/
